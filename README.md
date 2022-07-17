@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**Totem-Incinerator/Totem-Incinerator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Jhonathan Bermudez** aka **Totem-Incinerator** me gusta la tecnología y la informatica, toco guitarra en mis ratos libres. Tengo dos gatos y soy colombiano.                                                                              
+Sobre mi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 He trabajado con:
+  * Php
+  * JavaScript
+  * Html5
+  * CS3
+  * SQL
+  * Git
+  * Laravel 8
+  * VueJs 2
+  * Manejo de microservicios
+  * API´S REST
+
+#### Aprendiendo
+🌱 Actualmente estoy aprendiendo Node Js, MongoDB y más cosas relacionadas al backend con JavaScript
+
+#### Colaborar
+👯 Me encantaria colaborar en proyectos que me permitan fortalecer mis habilidades en las tecnologias anteriormente mencionadas y por supuesto aprender más.
+
+#### Contacto
+💬 Puedes contactarme a través de mi correo: **jotaceron@hotmail.com**
