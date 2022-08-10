@@ -13,7 +13,7 @@ Sobre mi:
   * Git
   * Laravel 8
   * VueJs 2
-  * Manejo de microservicios
+  * Microservicios
   * API´S REST
 
 #### Colaborar
