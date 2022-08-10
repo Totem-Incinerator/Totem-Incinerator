@@ -16,9 +16,6 @@ Sobre mi:
   * Manejo de microservicios
   * API´S REST
 
-#### Aprendiendo
-🌱 Actualmente estoy aprendiendo Node Js, MongoDB y más cosas relacionadas al backend con JavaScript
-
 #### Colaborar
 👯 Me encantaria colaborar en proyectos que me permitan fortalecer mis habilidades en las tecnologias anteriormente mencionadas y por supuesto aprender más.
 
