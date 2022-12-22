@@ -1,23 +1,24 @@
 ### Hola!!! 👋
 
-
-**Jhonathan Bermudez** aka **Totem-Incinerator** me gusta la tecnología y la informatica, toco guitarra en mis ratos libres. Tengo dos gatos y soy colombiano.                                                                              
 Sobre mi:
+Me gusta la informática, la música electrónica, la producción musical y tengo un gato que se llama **Tornillo** 🐈‍⬛
 
-🔭 He trabajado con:
-  * Php
-  * JavaScript
-  * Html5
-  * CS3
-  * SQL
+🔭 Herramientas favoritas:
+  * Svelte
+  * VueJs
+  * Bootstrap
+  * NodeJs
+  * Laravel
+  * MongoDb
+  * Mysql
   * Git
-  * Laravel 8
-  * VueJs 2
+  
+ 🖱️ Otros
   * Microservicios
   * API´S REST
 
-#### Colaborar
-👯 Me encantaria colaborar en proyectos que me permitan fortalecer mis habilidades en las tecnologias anteriormente mencionadas y por supuesto aprender más.
+#### Aprendiendo
+👯 Actualmente fortaleciendo mi conocimiento en el backend con Java y Spring boot
 
 #### Contacto
 💬 Puedes contactarme a través de mi correo: **jotaceron@hotmail.com**
