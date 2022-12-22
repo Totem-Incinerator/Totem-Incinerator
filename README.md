@@ -1,9 +1,9 @@
 ### Hola!!! 👋
 
-Sobre mi:
-Me gusta la informática, la música electrónica, la producción musical y tengo un gato que se llama **Tornillo** 🐈‍⬛
+Sobre mi:\
+Me gusta la informática, la producción musical y tengo un gato que se llama **Tornillo** 🐈‍⬛
 
-🔭 Herramientas favoritas:
+🧰 Herramientas favoritas:
   * Svelte
   * VueJs
   * Bootstrap
