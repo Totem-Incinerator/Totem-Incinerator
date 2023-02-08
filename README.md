@@ -8,7 +8,6 @@ Me gusta la informática, la producción musical y tengo un gato que se llama **
   * VueJs
   * Bootstrap
   * NodeJs
-  * Laravel
   * MongoDb
   * Mysql
   * Git
