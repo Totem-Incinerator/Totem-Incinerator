@@ -1,21 +1,26 @@
-### Hola!!! 👋
+### Hi! 👋
 
-Sobre mi:\
-Me gusta la informática, la producción musical y tengo un gato que se llama **Tornillo** 🐈‍⬛
+**About me:**
+- A systems analyst and aspiring systems engineer, I possess a passion for backend development while also embracing the challenges of full-stack projects.
+- If you'd like to connect with me, you can find me on [LinkedIn.](www.google.com)
+- One of my hobbies is making music. You can find my music on [Soundcloud.](https://soundcloud.com/skytan-music)
 
-🧰 Herramientas favoritas:
-  * Svelte
-  * VueJs
-  * Bootstrap
-  * NodeJs
-  * MongoDb
-  * Mysql
-  * Git
+**Programing things:**
+- My favorite programming languages include Pyhton, C#, and php. I'm also proficient in Java and JavaScript, and I'm currently interested in learning Rust.
   
- 🖱️ Otros
-  * Microservicios
-  * API´S REST
+🧰 I have experience using tools like:
+  * Svelte.
+  * VueJs.
+  * Bootstrap.
+  * NodeJs.
+  * MongoDb.
+  * Mysql.
+  * Git.
+  
+ 🖱️ Others
+  * Microservices.
+  * API´S REST.
 
-#### Aprendiendo
-📚 Estudiante de ingeniería de sistemas\
-📖 Actualmente fortaleciendo mi conocimiento en el backend con Java y Spring boot. 
+#### Learning
+📚 Systems engineering student.\
+📖 Data analysis and machine learning.
